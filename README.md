@@ -8,7 +8,7 @@
 5. Implementation of Roberta model is going on.
 6. Error Analysis is distributed among team members and plan to seperate observations accroding to error analysis type provided in basic analysis section.
 
-## Contribution Info 
+### Contribution Info 
 
 #### Samkit Shah : 
 1. Read paper of [CosmosQA](https://arxiv.org/abs/1909.00277) , [BERT](https://arxiv.org/abs/1810.04805) to get deep understanding of paper concepts
