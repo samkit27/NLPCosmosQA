@@ -1,7 +1,7 @@
 # NLPCosmosQA
 
 ### Progress
-1. Read [CosmosQA](https://arxiv.org/abs/1909.00277) paper to get deep understanding of paper concepts.
+1. Read [CosmosQA] (https://arxiv.org/abs/1909.00277) paper to get deep understanding of paper concepts.
 2. Run [Wilburone's model](https://github.com/samkit27/NLPCosmosQA/tree/master/wilburone/cosmosqa-master) as a baseline model
 3. Read Papers of DistilBERT and RoBERTa and try to implement them.
 4. Run DistilBERT model sucessfully.
